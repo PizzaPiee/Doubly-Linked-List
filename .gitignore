@@ -56,3 +56,4 @@ dkms.conf
 *.nix
 .breakpoints
 .ccls-cache/
+main
